@@ -1,2 +1,2 @@
 # video_game_sales_forecasting
-project for sprint 5 doing a full EDA on game sales data from 2016
+Analyzing video game sales to predict which future games will generate the most revenue
